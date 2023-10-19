@@ -9,4 +9,9 @@ background-color: gray;}
 
 .imagem{width: 100%;}
 
-.imagem_beneficio{width: 100%;}
+.lista{ display: inline-block;
+vertical-align: tops;}
+
+.imagem_beneficio{width: 50%;}
+
+.titulo-principal{padding-left: 20px;}
